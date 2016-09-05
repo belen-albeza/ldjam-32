@@ -4,22 +4,20 @@
   "name": "ludum-dare-32",
   "version": "0.0.0",
   "license": "CC-BY-NC-SA-4.0",
-  
+
   "repository": "belen-albeza/ldjam-32",
   "author": "Belén 'BenKo' Albeza",
-  
+
   "dependencies": {
-    "browserify": "*",
-    "browser-sync": "*",
-    "del": "*",
-    "gulp": "*",
-    "gulp-connect": "*",
-    "gulp-gh-pages": "*", 
-    "gulp-rsync": "*",
-    "gulp-util": "*",
-    "merge-stream": "*",
-    "phaser": "*",
-    "vinyl-source-stream": "*",
-    "watchify": "*"
+      "browserify": "*",
+      "gulp": "*",
+      "gulp-connect": "*",
+      "gulp-livereload": "*",
+      "gulp-rsync": "*",
+      "gulp-util": "*",
+      "merge-stream": "^1.0.0",
+      "phaser": "2.3.0",
+      "vinyl-source-stream": "*",
+      "watchify": "*"
   }
 }
