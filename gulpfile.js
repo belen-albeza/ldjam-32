@@ -75,7 +75,7 @@ gulp.task('build', ['js']);
 gulp.task('copy', function () {
     let rawFiles = gulp.src([
         'index.html', 'raw.html',
-        '*.css', '*.svg',
+        'css/*.css', '*.svg',
         'images/**/*', 'fonts/**/*', 'audio/**/*', 'data/**/*'
     ], { cwd: './app', base: './app' })
     .pipe(gulp.dest('./dist/'));
