@@ -4,8 +4,7 @@ Entry for [Ludum Dare #32](http://ludumdare.com/compo/2015/04/15/welcome-to-ludu
 
 ## Play
 
-- [Play the game here](https://lab.belenalbeza.com/games/ldjam-32)
-- [Github mirror](https://belen-albeza.github.io/ldjam-32)
+- [Play the game here](https://belen-albeza.github.io/ldjam-32)
 
 ## License
 
